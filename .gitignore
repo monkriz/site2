@@ -1,0 +1,5 @@
+# folder img
+img/
+# filies-txt
+docs/*.txt
+node_modules/
